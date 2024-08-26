@@ -19,7 +19,7 @@
 		<java.version>8</java.version>
 		<org.projectlombok.version>1.18.10</org.projectlombok.version>
 		<swagger2.version>2.9.2</swagger2.version>
-		<swagger-ui.version>2.9.2</swagger-ui.version>
+		<swagger-ui.version>2.10.0</swagger-ui.version>
 	</properties>
 
 	<dependencies>
